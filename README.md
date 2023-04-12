@@ -1,4 +1,3 @@
-# Realtor
+# React Realtor Project
 
-## React Realtor Project
 - I use React18, TailwindCss, Firebase
